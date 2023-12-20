@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning MERN technology
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me ankitaojha1611@gmail.com
-- ![image](https://github.com/AnkitaO16/AnkitaO16/assets/55884619/f92a871b-1639-4bea-8134-e01ff68a1f54)
-
+-![image](https://github.com/AnkitaO16/AnkitaO16/assets/55884619/acddbbd3-6f49-4b25-9e23-cf6db041979c)
  https://www.linkedin.com/in/ankitao16
 <!--
 **AnkitaO16/AnkitaO16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
