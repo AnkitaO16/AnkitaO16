@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m Ankita Ojha
-- 🔭 I’m currently working on private projects
+- 🔭 I’m currently working on projects
 - 👀 I’m interested in Fullstack/Frontend development
 - 🌱 I’m currently learning MERN technology
 - 💞️ I’m looking to collaborate on development projects
