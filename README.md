@@ -4,7 +4,7 @@
 - 👀 I’m interested in Fullstack/Frontend development
 - 🌱 I’m currently learning MERN technology
 - 💞️ I’m looking to collaborate on development projects
-- 📫 How to reach me
+- ⚡ You can reach me on
 - https://www.linkedin.com/in/ankitao16
 - ankitaojha1611@gmail.com  
 - https://github.com/AnkitaO16 
