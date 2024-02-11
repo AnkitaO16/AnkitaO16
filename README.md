@@ -1,5 +1,5 @@
-### Hi there 👋
-- 👋 Hi, I’m Ankita Ojha
+### Hey All! 👋
+- 😄 I’m Ankita Ojha
 - 🔭 I’m currently working on projects
 - 👀 I’m interested in Fullstack/Frontend development
 - 🌱 I’m currently learning MERN technology
