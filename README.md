@@ -9,7 +9,7 @@
 - ankitaojha1611@gmail.com  
 - https://github.com/AnkitaO16
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AnkitaO16=AnkitaO16&show_icons=true)
+- ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?AnkitaO16=AnkitaO16&show_icons=true)
 
 <!--
 **AnkitaO16/AnkitaO16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
