@@ -24,14 +24,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# Hey All! 👋
+- 😄 I’m Ankita Ojha
+- 🔭 I’m currently working on Web projects
+- 👀 I’m interested in Fullstack/Frontend development
+- 🌱 I’m currently learning MERN technology
+- 💞️ I’m looking to collaborate on development projects
+
+## 💫 About Me:
 🔭 **I’m currently working on:**  <br>Improving web application implentation and architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>React .<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating web Apps.
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnkitaO16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitao16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12860128/ankitao16) 
 
-# 💻 Tech Stack:
+#### 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -54,17 +61,17 @@ Here are some ideas to get you started:
  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-# 📊 GitHub Stats:
+##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnkitaO16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaO16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaO16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+###### 🔝 Top Contributed Repo
 ![contributions](https://github-contributor-stats.vercel.app/api?username=AnkitaO16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-###  Total Visitors on the Page
+<!--###  Total Visitors on the Page
 
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnkitaO16.AnkitaO16)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnkitaO16.AnkitaO16)-->
 
 <!--[![visitors](https://visitcount.itsvg.in/api?id=AnkitaO16&icon=0&color=0)](https://visitcount.itsvg.in)-->
 ---
