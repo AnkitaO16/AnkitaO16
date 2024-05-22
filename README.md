@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 
 ###  Total Visitors on the Page
 
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnkitaO16.AnkitaO16)-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnkitaO16.AnkitaO16)
 
-[![visitors](https://visitcount.itsvg.in/api?id=AnkitaO16&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![visitors](https://visitcount.itsvg.in/api?id=AnkitaO16&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
