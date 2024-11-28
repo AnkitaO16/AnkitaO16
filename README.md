@@ -66,6 +66,19 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaO16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaO16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📈 GitHub Stats
+
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaO16&theme=gruvbox)
+
+---
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaO16&langs_count=8&layout=compact&theme=gruvbox)
+
+---
+
 ###### 🔝 Top Contributed Repo
 ![contributions](https://github-contributor-stats.vercel.app/api?username=AnkitaO16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
